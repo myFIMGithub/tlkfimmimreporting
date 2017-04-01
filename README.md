@@ -10,7 +10,8 @@ Search
 
 Reports
 
-      Query the logs for changes (Updates/Creates) to an Object in a particular time frame. With option to export the results. 
+      Query the logs for changes (Updates/Creates) to an Object in a particular time frame. 
+      With option to export the results. 
 
 Metrics
 
